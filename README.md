@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm Pedro 👋🇵🇹
+
+![Pedro Tiago](https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif)
 
 <!--
 **pedrotiag0/pedrotiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
