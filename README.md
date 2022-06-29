@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
   
-<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif?width=676&height=676">
+<img align="right" alt="gif" style="border-radius:50px;" src="https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif?width=676&height=676">
 
 <!--
 ![Pedro Tiago](https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif)
