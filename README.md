@@ -2,6 +2,10 @@
 
 ![Pedro Tiago](https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif)
 
+- 🏫 Currently doing a Masters in Computer Science at the Faculty of Sciences and Technology, University of Coimbra
+- 🧑🏻‍🎓 Graduated in Informatics Engineering in 2021
+- 📩 Reach me! Here's my email: ptiagosm@gmail.com
+
 <!--
 **pedrotiag0/pedrotiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
