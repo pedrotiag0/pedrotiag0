@@ -9,7 +9,7 @@
 - 📩 Reach me! Here's my email: ptiagosm@gmail.com
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/FranciscoBugalho" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-marques-8696a8209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a>
   
 ## Programming Experience:
   
