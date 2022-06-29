@@ -5,8 +5,9 @@
 <div style="display: inline_block">
   
 
-- 🏫 Currently doing a Masters in Computer Science at the Faculty of Sciences and Technology, University of Coimbra
+- 🏫 Currently doing a Masters in Computer Science at the [Faculty of Sciences and Technology](https://www.uc.pt/en/fctuc), [University of Coimbra](https://www.uc.pt/en)
 - 🧑🏻‍🎓 Graduated in Informatics Engineering in 2021
+- 🚚 Software Quality Assurance Engineer Intern at [Stratio Automotive](https://stratioautomotive.com/)
 - 📩 Reach me! Here's my email: ptiagosm@gmail.com
 
 ## Connect with me:
