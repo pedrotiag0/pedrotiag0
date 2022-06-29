@@ -1,8 +1,9 @@
+<img align="right" alt="gif" style="border-radius:50px;" height="200" src="https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif?width=676&height=676">
+
 ### Hello! I'm Pedro 👋🇵🇹
 
 <div style="display: inline_block">
   
-<img align="right" alt="gif" style="border-radius:50px;" height="200" src="https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif?width=676&height=676">
 
 - 🏫 Currently doing a Masters in Computer Science at the Faculty of Sciences and Technology, University of Coimbra
 - 🧑🏻‍🎓 Graduated in Informatics Engineering in 2021
