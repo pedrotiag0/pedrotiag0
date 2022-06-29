@@ -1,10 +1,20 @@
 ### Hello! I'm Pedro 👋🇵🇹
 
+<div style="display: inline_block">
+  
+<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif?width=676&height=676">
+
+<!--
 ![Pedro Tiago](https://github.com/pedrotiag0/pedrotiag0/blob/main/donatelloProgramming.gif)
+-->
 
 - 🏫 Currently doing a Masters in Computer Science at the Faculty of Sciences and Technology, University of Coimbra
 - 🧑🏻‍🎓 Graduated in Informatics Engineering in 2021
 - 📩 Reach me! Here's my email: ptiagosm@gmail.com
+
+## Connect with me:
+
+## Hello! I'm Pedro 👋🇵🇹
 
 <!--
 **pedrotiag0/pedrotiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
